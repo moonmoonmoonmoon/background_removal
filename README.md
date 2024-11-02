@@ -97,7 +97,7 @@ background-removal/
 │   │   │   └── lowell     # Lowell dataset for static scenes
 │   │   ├── moving         # Moving background datasets
 │   │   │   └── boston_vehicle_mount # Boston vehicle-mounted dataset for dynamic scenes
-│   ├── output             # Output folder for processed data
+├── output             # Output folder for processed data and transmation matrix
 ├── LICENSE
 ├── README.md
 ├── main.py
