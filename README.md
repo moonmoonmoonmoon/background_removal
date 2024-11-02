@@ -1,1 +1,1 @@
-# static_background_removal
+# background_removal
