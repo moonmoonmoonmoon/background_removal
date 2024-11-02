@@ -92,6 +92,12 @@ background-removal/
 │   │   ├── __init__.py
 │   │   └── visualization.py
 │   └── __init__.py
+├── dataset            # Contains datasets for testing
+│   │   ├── static         # Static background datasets
+│   │   │   └── lowell     # Lowell dataset for static scenes
+│   │   ├── moving         # Moving background datasets
+│   │   │   └── boston_vehicle_mount # Boston vehicle-mounted dataset for dynamic scenes
+│   ├── output             # Output folder for processed data
 ├── LICENSE
 ├── README.md
 ├── main.py
