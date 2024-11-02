@@ -17,7 +17,7 @@ A Python-based project for processing Point Cloud Data (PCD) files, featuring ba
 
 ## Demo
 ### Background Removal Result
-![Screenshot from 2024-11-01 14-29-47](https://github.com/user-attachments/assets/6fa169ad-1968-4c1c-a567-abf18d2d5351)
+https://github.com/moonmoonmoonmoon/background_removal/blob/main/Screenshot%20from%202024-11-02%2000-03-51.png
 
 *Demonstration of the background removal process*
 
